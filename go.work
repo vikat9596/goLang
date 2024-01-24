@@ -3,5 +3,9 @@ go 1.21.4
 use (
 	./01hello
 	./03userinput
-	
+	./23mymodule
+	./24buildapi
+	./25mongoapi
+	./27mutexAndAwaitGroups
+
 )
